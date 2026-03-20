@@ -1,0 +1,7 @@
+{
+  "id": "id_5e9a2b",
+  "is_vulnerable": true,
+  "label": "vulnerable",
+  "vulnerability_line": 31,
+  "vulnerability": "shell_injection (os.system on unsanitized user-controlled command string)"
+}

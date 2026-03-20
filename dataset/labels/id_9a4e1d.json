@@ -1,0 +1,7 @@
+{
+  "id": "id_9a4e1d",
+  "is_vulnerable": true,
+  "label": "vulnerable",
+  "vulnerability_line": 32,
+  "vulnerability": "shell_injection (subprocess.run with shell=True and unsanitized command composition)"
+}

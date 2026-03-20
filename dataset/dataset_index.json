@@ -1,0 +1,13 @@
+{
+  "n": 6,
+  "benign_ids": [
+    "id_7f2a1c",
+    "id_8b4d9e",
+    "id_1c6f3a"
+  ],
+  "vulnerable_ids": [
+    "id_5e9a2b",
+    "id_3d7c8f",
+    "id_9a4e1d"
+  ]
+}
