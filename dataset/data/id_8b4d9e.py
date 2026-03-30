@@ -1,8 +1,4 @@
-#!/usr/bin/env python3
-"""
-Find text in a file using a fixed grep invocation.
-This script is a benign sample with no command injection sink.
-"""
+
 
 from __future__ import annotations
 

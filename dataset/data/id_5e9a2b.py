@@ -1,8 +1,4 @@
-#!/usr/bin/env python3
-"""
-Demonstration script that lists a user-chosen path.
-Intentionally vulnerable to shell injection for dataset purposes.
-"""
+
 
 from __future__ import annotations
 

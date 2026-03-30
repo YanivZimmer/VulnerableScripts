@@ -1,8 +1,3 @@
-#!/usr/bin/env python3
-"""
-Search text with grep and emit structured output.
-Intentionally vulnerable to shell injection for dataset generation.
-"""
 
 from __future__ import annotations
 

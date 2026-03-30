@@ -1,8 +1,4 @@
-#!/usr/bin/env python3
-"""
-Compute checksums by calling shasum safely.
-This script is benign and passes parameters as an argument list.
-"""
+
 
 from __future__ import annotations
 

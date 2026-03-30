@@ -1,8 +1,3 @@
-#!/usr/bin/env python3
-"""
-Collect directory listing metadata in a predictable way.
-This script is intended to be a benign example.
-"""
 
 from __future__ import annotations
 
